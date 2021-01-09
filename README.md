@@ -157,7 +157,7 @@ function openMenu(evt, menuName) {
     tablinks[i].className = tablinks[i].className.replace(" w3-dark-grey", "");
   }
   document.getElementById(menuName).style.display = "block";
-  evt.currentTarget.firstElementChild.className += " w3-dark-grey";
+  evt.currentTarget.firstElementChild.className -= " w3-dark-grey";
 }
 document.getElementById("myLink").click();
 </script>
