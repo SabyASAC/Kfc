@@ -82,10 +82,10 @@ body, html {
   
     <div class="w3-row w3-center w3-card w3-padding">
       <a href="javascript:void(0)" onclick="openMenu(event, 'Page1');" id="myLink">
-        <div class="w3-col s6 tablink">Eat</div>
+        <div class="w3-col s6 tablink">Page1</div>
       </a>
       <a href="javascript:void(0)" onclick="openMenu(event, 'Page2');">
-        <div class="w3-col s6 tablink">Drink</div>
+        <div class="w3-col s6 tablink">Page2</div>
       </a>
     </div>
 
