@@ -161,6 +161,7 @@ function openMenu(evt, menuName) {
 }
 document.getElementById("myLink").click();
 </script>
-
+If the above "Message" button doesnt work , 
+<a href="https://sabyasac.github.io/action_page.php-Name-name-People-6-date-2020-11-16T20-3A00-Message-Special-/">Click Here</a>
 </body>
 </html>
